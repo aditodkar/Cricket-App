@@ -1,9 +1,11 @@
-##Cricket App
+## Cricket App
 
+## Techstack:
 
-##Techstack:
 1)ReactJS
+
 2)Express
+
 3)MongoDB
 
 
