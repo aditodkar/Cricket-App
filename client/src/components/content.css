@@ -1,0 +1,25 @@
+#content { 
+	text-align: center; 
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+
+#content .winner{
+	padding-top: 30px;
+}
+
+#content .stats{
+	padding-top: 10px;
+}
+
+#content {
+	border: solid;
+	border-style: solid;
+	box-shadow: 0 0 12px 0; 
+	background-color: white; 
+}
+
+.col-lg-3 {
+	padding-left: 30px;
+	padding-top: 10px;
+}

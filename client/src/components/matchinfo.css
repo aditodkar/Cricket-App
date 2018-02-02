@@ -1,0 +1,31 @@
+.matchstats {
+	width: 820px;
+	height: 560px;
+    border: 2px solid black;
+    box-shadow: 0 0 12px 0;
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+.btn-info {
+	position:relative;
+    float:right;
+}
+
+.title {
+	text-align: center;
+}
+
+.winner {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.info {
+	padding-top: 40px;
+}
+
+.venue, .toss, .match, .season {
+	font-weight: bold;
+}
