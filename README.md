@@ -1,10 +1,12 @@
 ## IPL Cricket App
 Cricket app displays IPL matches. It also displays match statistics of individual matches when clicked on view stats button. 
 
-Screenshots : 
+Design (Screenshots) : 
 
 ![screenshot_2](https://user-images.githubusercontent.com/16613832/35732043-00edc134-083e-11e8-9a08-a0a6b2bc3f5c.png)
 
+
+Pagination:
 
 ![screenshot_3](https://user-images.githubusercontent.com/16613832/35732149-66ba226e-083e-11e8-8122-e782270da8bb.png)
 
